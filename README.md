@@ -21,9 +21,9 @@ Autonomous driving systems developed for structured road environments often face
 - Potholes
 - Waterlogging
 - Road cracks
-- Faded or missing lane markings
 - Mixed traffic participants
-- Unstructured road boundaries
+- Drivable  Area
+- Lane markings
 
 To address these challenges, we propose a multitask perception framework that simultaneously understands:
 
@@ -205,19 +205,6 @@ custom_yolo_dataset_root = "path/to/custom_dataset"
 ```
 
 before execution.
-
----
-
-## Ablation Studies
-
-The paper includes:
-
-- Transformer module evaluation
-- Safety-aware refinement analysis
-- Learnable fusion comparison
-- Sensitivity analysis
-- Cross-region zero-shot validation
-- Structured vs unstructured road evaluation
 
 ---
 
