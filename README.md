@@ -230,7 +230,3 @@ This work utilizes:
 - PyTorch
 
 We thank the contributors and researchers whose open-source tools enabled this research.
-
-SMART Center – Sustainable Mobility and Automotive Research Technology
-
-Email: your-email@domain.com
